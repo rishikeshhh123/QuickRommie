@@ -1,0 +1,4 @@
+# Ignore environment variables
+backend/.env
+node_modules/
+.vscode/
